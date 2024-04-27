@@ -10,8 +10,8 @@
     <p> - 📫 Feel free to reach me out <a url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsTBxhvNdxqKLtSPDDMvXtsDQGDXldRBLQrxlwdMhHHnBbCvJCjRmRvxxMhLkmlCJqFDq">  freddyf2030@gmail.com </a></p>
     <p> - ⚡ Fun fact: Water might not be wet!</p>
 
-  <h2> 👨‍💻TECH STACK </h2>
-      <bottom>[C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)> </bottom>
+  &nbsp;👨‍💻TECH STACK
+      [C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)>&nbsp;
 
 </body>
 
