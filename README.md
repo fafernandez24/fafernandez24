@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fafernandez24
-- 👀 I’m studiying in the University Catholic Andres Bello an informatic enngiennier carrer.
-- 💞️ I’m looking to collaborate on to develop webs.
+- 👀 I’m studiying in the Catholic University Andres Bello an informatic enngiennier carrer.
+- 💞️ I’m looking to collaborate like developer web.
 - ⚡ Fun fact: Water might not be wet!
 
 <!---
