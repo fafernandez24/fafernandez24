@@ -2,7 +2,7 @@
 
 <div>
   
-  <img alt = "banner Freddy Fernandez" src = "[https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view](https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view)" witdh = "40%" align = "center" >
+  <img alt = "banner Freddy Fernandez" src = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view" witdh = "40%" align = "center" >
   
 </div>
 <img url = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view" witdh = "40%" align = "center" >
