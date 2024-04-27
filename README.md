@@ -2,7 +2,7 @@
 
 <header> 
 
-  <img alt = "banner Freddy Fernandez" src = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view" align = "center" >
+  <img alt = "banner Freddy Fernandez" src = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view">
 
 </header>
 
