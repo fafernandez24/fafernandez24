@@ -5,8 +5,6 @@
   <img alt = "banner Freddy Fernandez" src = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view" align = "center" >
 
 </header>
-  
-<img src = "https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view" witdh = "100%" align = "center" >
 
 - 👋 Hi, I’m @fafernandez24
 - 👀 I’m studiying in the Catholic University Andres Bello an informatic enngiennier carrer.
