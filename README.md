@@ -2,7 +2,7 @@
 
 <header> 
 
-  <img alt = "banner Freddy Fernandez" src = "[banner_freddy.jpg](https://github.com/fafernandez24/fafernandez24/pull/1/commits/19510a5ff2a2fc9a94a5a7c0f78826cc5cda1800#diff-0a9fcf5a4d62f3b373789f909ac3d67f26af6aa6d90071862734319adf7ed6a6)">
+  <img alt = "banner Freddy Fernandez" src = "[banner_freddy.jpg](https://github.com/fafernandez24/fafernandez24/pull/1/commits/19510a5ff2a2fc9a94a5a7c0f78826cc5cda1800#diff-0a9fcf5a4d62f3b373789f909ac3d67f26af6aa6d90071862734319adf7ed6a6)" width = "100%">
 
 </header>
 
