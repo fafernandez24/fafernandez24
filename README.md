@@ -6,8 +6,6 @@
 
 </header>
 
-- 👋 Hi, I’m @fafernandez24
-- 👀 I’m studiying in the Catholic University Andres Bello an informatic enginneer carrer.
 - 💞️ I’m looking to collaborate like developer web.
 - 📫 Feel free to reach me out <a url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsTBxhvNdxqKLtSPDDMvXtsDQGDXldRBLQrxlwdMhHHnBbCvJCjRmRvxxMhLkmlCJqFDq"> freddyf2030@gmail.com </a>
 - ⚡ Fun fact: Water might not be wet!
