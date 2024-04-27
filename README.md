@@ -11,7 +11,7 @@
     <p> - ⚡ Fun fact: Water might not be wet!</p>
 
   <h2> 👨‍💻TECH STACK </h2>
-      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 </body>
 
