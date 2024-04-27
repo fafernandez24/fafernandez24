@@ -1,6 +1,6 @@
 <h1 align = "center" > 👋Hello, I’m Freddy Fernandez! </h1>
 
-<img alt = "banner Freddy Fernandez" src = "[Pictures](https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view)"> 
+![Pictures](https://www.canva.com/design/DAGDnL0QfdY/yomCZ4wNZsDcjmcwlQ7G5g/view)"
 
 - 👋 Hi, I’m @fafernandez24
 - 👀 I’m studiying in the Catholic University Andres Bello an informatic enngiennier carrer.
