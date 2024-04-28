@@ -7,7 +7,7 @@
 
   <h2> 👀ABOUT ME </h2>
     <p> - 💞️ I’m looking to collaborate like developer web.</p>
-    <p> - 📫 Feel free to reach me out <a url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsTBxhvNdxqKLtSPDDMvXtsDQGDXldRBLQrxlwdMhHHnBbCvJCjRmRvxxMhLkmlCJqFDq">freddyf2030@gmail.com</a></p>
+    <p> - 📫 Feel free to reach me out <a url = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inboxcompose=GTvVlcRzDsTBxhvNdxqKLtSPDDMvXtsDQGDXldRBLQrxlwdMhHHnBbCvJCjRmRvxxMhLkmlCJqFDq">freddyf2030@gmail.com</a></p>
     <p> - ⚡ Fun fact: Water might not be wet!</p>
 
   <h2> 👨‍💻TECH STACK </h2>
