@@ -1,6 +1,6 @@
 <header> 
   <h1 align = "center" > 👋Hello, I’m Freddy Fernandez! </h1>
-  <img alt = "banner Freddy Fernandez" src = "[https://github.com/fafernandez24/fafernandez24/blob/0a2749b6f4cb2b96ef614cd33d3c6ef6924e48b9/.github/workflows/banner_freddy.jpg](https://github.com/fafernandez24/fafernandez24/blob/main/.github/workflows/banner%20Freddy%20Fernandez.png)" width = "100%" align = "center">
+  <img alt = "banner Freddy Fernandez" src = "https://github.com/fafernandez24/fafernandez24/blob/main/.github/workflows/banner%20Freddy%20Fernandez.png" width = "100%" align = "center">
 </header>
 
 <body>
